@@ -1,0 +1,23 @@
+{
+  "id": "5ebbe3b0-a57d-4f74-8df3-d486de104697",
+  "name": "BasicNewsletterAL",
+  "publisher": "Dynamics Blogging",
+  "brief": "Allows sending an HTML Email to a Segment",
+  "description": "Allows sending an HTML Email to a Segment",
+  "version": "1.0.1.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 73000,
+    "to": 73050
+  },
+  "runtime": "2.0"
+}
